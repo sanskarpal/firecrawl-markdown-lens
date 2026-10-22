@@ -2,7 +2,7 @@
 
 How LLM-ready is this scrape? See which parts of a page's markdown are navigation, cookie banners and footers, what the scrape options strip, how many tokens you save, and how the result chunks for RAG. An unofficial prototype for Firecrawl, built by Sanskar Pal while applying for the Product Engineer, Scrape role.
 
-**Live demo:** _coming soon_ · **Stack:** React 19, TypeScript, Tailwind v4, Vitest
+**Live demo:** [firecrawl-markdown-lens.vercel.app](https://firecrawl-markdown-lens.vercel.app) · **Stack:** React 19, TypeScript, Tailwind v4, Vitest
 
 ![Markdown Lens screenshot](docs/screenshot.png)
 
